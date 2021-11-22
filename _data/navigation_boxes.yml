@@ -1,8 +1,8 @@
 # Boxes include navigation
 
-- title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
-  icon: cog
+- title: About Perimeter Church
+  desc: Get caught up on our Values, Vision, and Mission
+  icon: home
   doc: installation
 
 - title: Theme Features
