@@ -7,9 +7,9 @@
   - leadership
   - purpose
 
-- title: Theme Features
+- title: Microsoft Teams
   docs:
-  - hero
+  - chat
   - boxes
   - featured
   - videos
@@ -22,13 +22,7 @@
   - toc
   - alerts
 
-- title: Customization
+- title: Ministry Platform
   docs:
-  - translation
-  - customize
-  - development
-  - sources
-
-- title: Help
-  docs:
-  - support
+    - events
+    - templates
