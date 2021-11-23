@@ -4,7 +4,7 @@ width: expand
 hero:
     title: How can we help you?
     subtitle: Search or browse knowledge base articles about Microsoft Office, Ministry Platform, or About Perimeter
-    image: ![hero image](https://doodleipsum.com/700/hand-drawn?i=ac5fcbd004e4a4496dc975c10f7af6be)
+    image: ![image](https://doodleipsum.com/700/hand-drawn?i=ac5fcbd004e4a4496dc975c10f7af6be)
     search: true
 ---
 
