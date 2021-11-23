@@ -1,5 +1,5 @@
 ---
-title: Values
+title: Our Values
 subtitle: 
 tags: [Perimeter Church]
 author: joseph
