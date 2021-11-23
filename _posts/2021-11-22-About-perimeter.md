@@ -1,6 +1,6 @@
 ---
 title: About Perimeter Church
-author: Joseph Wood
+author: Joseph
 categories: [Perimeter Church]
 ---
 
