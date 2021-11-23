@@ -7,26 +7,16 @@ left:
   - title: Docs
     url: /docs/installation/
 
-  - title: Blog
+  - title: Guest Articles
     url: /blog/
 
   - title: Changelogs
-    dropdown:
-
-      - title: Timeline Style
-        url: /changelog-timeline/
-
-      - title: Post Style
-        url: /changelog-posts/
+    url: /changelog-posts/
 
 
 # Navbar right menu navigation links
 
 right:
-
-  - title: Changelog
-    url: /changelog-timeline/
-    button: primary-outline
 
   - title: Contact
     url: /contact/
