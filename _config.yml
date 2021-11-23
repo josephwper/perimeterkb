@@ -26,10 +26,9 @@ navbar:
     search:         true
   
 # Default author settings
-author:
-    name:           Joseph Wood
-    title:          IT Technical Trainer  
-    avatar:         avatar-joseph.png
+#author:
+ #   name:           Joseph Wood
+  ## avatar:         avatar-joseph.png
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
