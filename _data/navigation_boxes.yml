@@ -5,12 +5,12 @@
   icon: home
   doc: installation
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
-  icon: settings
+- title: Microsoft 365
+  desc: Learn the ins and outs of apps like Teams, Outlook, and Planner
+  icon: users
   doc: hero
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
-  icon: code
+- title: Ministry Platform
+  desc: Learn the basics of Ministry Platform like Templates and Events
+  icon: album
   doc: customize
