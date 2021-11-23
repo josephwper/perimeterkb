@@ -1,3 +1,11 @@
+---
+title: Our Mission
+subtitle: 
+tags: [Perimeter Church]
+author: joseph
+---
+
+
 ## Mission
 _(How we will get there)_
 
