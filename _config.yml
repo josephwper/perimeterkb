@@ -39,11 +39,11 @@ authors:
     james:
       name:         James Smith
       title:        Support    
-      avatar:       avatar-evan.png
+      avatar:       avatar-james.png
     laura:
       name:         Laura Bazemore
       title:        Lead Developer     
-      avatar:       avatar-sara.png
+      avatar:       avatar-laura.png
     
 # Social icons displayed in footer
 social:
