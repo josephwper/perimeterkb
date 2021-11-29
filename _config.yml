@@ -19,7 +19,7 @@ permalink:          /:title/
 url:                ""
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
-logo:  perlogo.png            
+logo:  perlogosmall.png            
 
 navbar:
     sticky:         true
