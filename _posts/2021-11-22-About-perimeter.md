@@ -1,6 +1,6 @@
 ---
 title: About Perimeter Church
-author: joseph
+author: laura
 categories: [Perimeter Church]
 ---
 
