@@ -5,8 +5,8 @@ title: Got Any Questions
 permalink: /contact/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+##### If you have any questions regarding training or topics let us know!
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+If you want to setup a training time or want to see articles about a different app or service we know then just fill out this form and we will get back to you as quickly as possible. 
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" %}
+{% include formspree.html email="josephw@perimeter.org" redirect="/thanks/" name="true" subject="true" %}
