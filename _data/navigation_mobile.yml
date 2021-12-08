@@ -1,16 +1,13 @@
 # Mobile menu navigation links
 
 - title: Home
-  url: /perimeterkb/
+  url: /
 
 - title: Docs
-  url: /docs/installation/
+  url: /docs/Ephesians/
 
 - title: Blog
   url: /blog/
-
-- title: Changelog
-  url: /changelog-timeline/
 
 - title: Contact
   url: /contact/
