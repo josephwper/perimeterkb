@@ -10,13 +10,13 @@ description:        All knowledge base articles.
 lang:               en
 
 # Site subpath, e.g. /blog
-baseurl:            "/perimeterkb"
+baseurl:            ""
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://josephwper.github.io/perimeterkb"
+url:                ""
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo:    
@@ -33,34 +33,12 @@ author:
     
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-    john:
-      name:         John Brown
-      title:        Support     
-      avatar:       avatar-john.png
-    evan:
-      name:         Evan Wells
-      title:        Support    
-      avatar:       avatar-evan.png
-    sara:
-      name:         Laura Bazemore
-      title:        Data Quality Administrator     
-      avatar:       avatar-laura.png
-    alex:
-      name:         Alex Koch
-      title:        Design Engineer     
-      avatar:       avatar-alex.png
-    daniel:
-      name:         Daniel Shultz
-      title:        Developer      
-      avatar:       avatar-daniel.png
-    tom:
-      name:         Tom Farrell
-      title:        Developer     
-      avatar:       avatar-tom.png
+  
     laura:
       name:         Laura Bazemore
       title:        Data Quality Administrator     
       avatar:       avatar-laura.png
+
 
     
 # Social icons displayed in footer
@@ -88,7 +66,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Cleveland.
+    copyright:      Made by the TechOps department.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
@@ -141,7 +119,7 @@ defaults:
       layout:       post
   # _docs
   - scope:
-      path:         ""
+      path:         "/perimeterkb/"
       type:         docs
     values:
       layout:       doc
