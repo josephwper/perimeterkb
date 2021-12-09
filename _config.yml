@@ -119,7 +119,7 @@ defaults:
       layout:       post
   # _docs
   - scope:
-      path:         "/perimeterkb/"
+      path:         ""
       type:         docs
     values:
       layout:       doc
