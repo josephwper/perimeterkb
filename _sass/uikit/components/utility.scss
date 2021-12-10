@@ -434,7 +434,7 @@ $dragover-box-shadow:                            0 0 20px rgba(100,100,100,0.3) 
     text-decoration: none;
     @if(mixin-exists(hook-logo)) {@include hook-logo();}
 }
-@media (min-width: 445px) {
+@media (max-width: 445px) {
    .uk-logo {
       font-size: $logo-mobile-size;
    }
