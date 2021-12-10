@@ -61,6 +61,7 @@ $logo-font-size:                                 $global-large-font-size !defaul
 $logo-font-family:                               $global-font-family !default;
 $logo-color:                                     $global-color !default;
 $logo-hover-color:                               $global-color !default;
+$logo-mobile-size:                               14px;
 
 $dragover-box-shadow:                            0 0 20px rgba(100,100,100,0.3) !default;
 
@@ -433,6 +434,10 @@ $dragover-box-shadow:                            0 0 20px rgba(100,100,100,0.3) 
     text-decoration: none;
     @if(mixin-exists(hook-logo)) {@include hook-logo();}
 }
+@media (min-width: 445px) {
+   .uk-logo {
+      font-size: $logo-mobile-size;
+   }
 
 /* Hover + Focus */
 .uk-logo:hover,
