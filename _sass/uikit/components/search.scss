@@ -220,6 +220,13 @@ $search-toggle-hover-color:                          $global-color !default;
 
 .uk-search-navbar { width: $search-navbar-width; }
 
+
+@media (max-width: 445px) {
+   .uk-navbar-toggle .uk-search-icon .uk-icon {
+      visibility: none;
+   }
+}
+
 /*
  * Input
  */
