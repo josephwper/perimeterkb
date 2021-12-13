@@ -222,7 +222,7 @@ $search-toggle-hover-color:                          $global-color !default;
 
 
 @media (max-width: 445px) {
-   .uk-navbar-toggle .uk-search-icon .uk-icon {
+   .uk-navbar-toggle.uk-search-icon.uk-icon {
       display: none;
    }
 }
