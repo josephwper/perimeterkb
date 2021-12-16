@@ -11,9 +11,9 @@ $global-secondary-background:                 #222;
 $global-warning-background:                   #fbc418;
 $global-success-background:                   #403e56;
 $global-danger-background:                    #f0506e;
-$base-link-color:                               $global-color;
-$base-link-hover-color:                         $global-color;
-$link-muted-hover-color:                        $global-color;
+$base-link-color:                             #44a7ff;
+$base-link-hover-color:                       #7DBEF7;
+$link-muted-hover-color:                      #C5E4FF;
 
 // Font
 $global-font-family:                            proxima-nova, sans-serif;
@@ -29,7 +29,7 @@ $base-heading-font-weight:                      bold;
 $base-heading-margin-top:                       50px;
 $base-h2-line-height:                           1.4;
 $text-lead-font-size:                           1.125rem;
-$text-lead-color:                               #333333;
+$text-lead-color:                               $global-muted-color;
 
 // Borders
 $global-border:                               #e5e5e5;
