@@ -7,7 +7,7 @@ author: joseph
 
 
 ## Mission
-_(How we will get there)_
+(How we will get there)
 
 **Spiritual Multiplication**
 
