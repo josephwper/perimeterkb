@@ -21,3 +21,4 @@ Our Values are our core guiding principles. We have two main sets of values: "Wh
 - Faith
 - Truth
 
+So how does this work? Will this push right when I save it?
